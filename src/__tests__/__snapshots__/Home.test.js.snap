@@ -1,0 +1,105 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Home/> render the Home Page 1`] = `
+<div>
+  <div
+    class="container"
+  >
+    <div
+      class="search"
+    >
+      <input
+        data-testid="search-box"
+        placeholder="Seach for a city..."
+        type="text"
+        value=""
+      />
+    </div>
+    <div
+      class="places"
+      data-testid="famous-places"
+    >
+      <div
+        class="places__row"
+      >
+        <div
+          class="places__box"
+        >
+          <a
+            href="/location/london-2643743"
+          >
+            <div
+              class="places__image-wrapper"
+            >
+              <img
+                alt="London"
+                src="london.jpg"
+              />
+            </div>
+            <span>
+              London
+            </span>
+          </a>
+        </div>
+        <div
+          class="places__box"
+        >
+          <a
+            href="/location/paris-2968815"
+          >
+            <div
+              class="places__image-wrapper"
+            >
+              <img
+                alt="Paris"
+                src="paris.jpg"
+              />
+            </div>
+            <span>
+              Paris
+            </span>
+          </a>
+        </div>
+        <div
+          class="places__box"
+        >
+          <a
+            href="/location/tokyo-1850147"
+          >
+            <div
+              class="places__image-wrapper"
+            >
+              <img
+                alt="Tokyo"
+                src="tokyo.jpg"
+              />
+            </div>
+            <span>
+              Tokyo
+            </span>
+          </a>
+        </div>
+        <div
+          class="places__box"
+        >
+          <a
+            href="/location/new-york-city-5128581"
+          >
+            <div
+              class="places__image-wrapper"
+            >
+              <img
+                alt="New York"
+                src="new-york.jpg"
+              />
+            </div>
+            <span>
+              New York
+            </span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

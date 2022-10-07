@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SearchBox/> render the SearchBox Component 1`] = `
+<div>
+  <div
+    class="search"
+  >
+    <input
+      data-testid="search-box"
+      placeholder="Seach for a city..."
+      type="text"
+      value=""
+    />
+  </div>
+</div>
+`;

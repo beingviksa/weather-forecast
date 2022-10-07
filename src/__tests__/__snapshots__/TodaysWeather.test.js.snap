@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TodaysWeather/> render the TodaysWeather Component 1`] = `
+<div>
+  <div
+    class="todays-forecast"
+  >
+    <h1
+      data-testid="city-country"
+    >
+      London
+       
+      (GB)
+    </h1>
+    <section>
+      <div
+        class="temp-details"
+      >
+        <span
+          class="temp-label"
+        >
+          Min.
+        </span>
+        <span
+          class="min-temp"
+          data-testid="min-temp"
+        >
+          5
+          °C
+        </span>
+      </div>
+      <div
+        class="temp-details"
+      >
+        <span
+          class="temp-label"
+        >
+          Max.
+        </span>
+        <span
+          class="max-temp"
+          data-testid="max-temp"
+        >
+          17
+          °C
+        </span>
+      </div>
+    </section>
+  </div>
+</div>
+`;
